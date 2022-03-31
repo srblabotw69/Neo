@@ -1,0 +1,94 @@
+{
+  "magic": 1069669738,
+  "address-version": 53,
+  "consensus-nodes": [
+    {
+      "tcp-port": 50013,
+      "ws-port": 50014,
+      "rpc-port": 50012,
+      "wallet": {
+        "name": "node1",
+        "accounts": [
+          {
+            "private-key": "61291be289c149e9c8a8f3fc31a51c5828b5f9bffe055cdd1fcf6aa0d66fcfeb",
+            "script-hash": "NLzsjD95HRvZxx139m5cKnNGNow2fgrxzf",
+            "label": null,
+            "is-default": true,
+            "contract": {
+              "script": "0c2102d1d1fa827a8f7edc73d1cd22b0b12b71814045c67b7f94f08ba836d50c9b994b4156e7b327",
+              "parameters": [
+                "Signature"
+              ]
+            }
+          },
+          {
+            "private-key": "61291be289c149e9c8a8f3fc31a51c5828b5f9bffe055cdd1fcf6aa0d66fcfeb",
+            "script-hash": "NWeqXLwtSbywSPkAe6XWEWjVSZiRVXXxt9",
+            "label": "Consensus MultiSigContract",
+            "is-default": false,
+            "contract": {
+              "script": "110c2102d1d1fa827a8f7edc73d1cd22b0b12b71814045c67b7f94f08ba836d50c9b994b11419ed0dc3a",
+              "parameters": [
+                "Signature"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "wallets": [
+    {
+      "name": "owner",
+      "accounts": [
+        {
+          "private-key": "85269a3a7ca7384757d8622b78175c1870cd2ecbf2ecabe747bc392eee80ab0b",
+          "script-hash": "NLjftYTF8FKdt2cE3YxDQ9DiDtu2W5bCzd",
+          "label": null,
+          "is-default": true,
+          "contract": {
+            "script": "0c21025955c7ea0366942afe2e85e6a1187015972214eb5d10e52918047c244f4f19424156e7b327",
+            "parameters": [
+              "Signature"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "alice",
+      "accounts": [
+        {
+          "private-key": "9e7e650cd4ba4597aa9c1b122fb734f1eec6904b43f4102a7e8b9e1d402e94c4",
+          "script-hash": "NXytzzV6UqhKCsbVWGukCPJYiQ3Z8MG56H",
+          "label": null,
+          "is-default": true,
+          "contract": {
+            "script": "0c2102af0eb8f04f90b2a2923757b9fc9be4ded8ad397713ff9b2d2ac28456813733a34156e7b327",
+            "parameters": [
+              "Signature"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "bob",
+      "accounts": [
+        {
+          "private-key": "7da391e10715343618fe73db5e2ca4af3d66dbf3ee83ba2c467141f00a1ecba5",
+          "script-hash": "NiSAuNioGpCU5QKQh3iubgZMYTRqVGcHf8",
+          "label": null,
+          "is-default": true,
+          "contract": {
+            "script": "0c2103c650002ad85beeb73f5c42de11551f63dad99b3f7a292977e0b6f802e8cfb2624156e7b327",
+            "parameters": [
+              "Signature"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "settings": {}
+}

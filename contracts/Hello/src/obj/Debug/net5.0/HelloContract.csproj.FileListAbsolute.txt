@@ -1,0 +1,12 @@
+/Users/sspc/VisualStudioProjects/contracts/Hello/src/bin/Debug/net5.0/HelloContract.deps.json
+/Users/sspc/VisualStudioProjects/contracts/Hello/src/bin/Debug/net5.0/HelloContract.dll
+/Users/sspc/VisualStudioProjects/contracts/Hello/src/bin/Debug/net5.0/ref/HelloContract.dll
+/Users/sspc/VisualStudioProjects/contracts/Hello/src/bin/Debug/net5.0/HelloContract.pdb
+/Users/sspc/VisualStudioProjects/contracts/Hello/src/obj/Debug/net5.0/HelloContract.csproj.AssemblyReference.cache
+/Users/sspc/VisualStudioProjects/contracts/Hello/src/obj/Debug/net5.0/HelloContract.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sspc/VisualStudioProjects/contracts/Hello/src/obj/Debug/net5.0/HelloContract.AssemblyInfoInputs.cache
+/Users/sspc/VisualStudioProjects/contracts/Hello/src/obj/Debug/net5.0/HelloContract.AssemblyInfo.cs
+/Users/sspc/VisualStudioProjects/contracts/Hello/src/obj/Debug/net5.0/HelloContract.csproj.CoreCompileInputs.cache
+/Users/sspc/VisualStudioProjects/contracts/Hello/src/obj/Debug/net5.0/HelloContract.dll
+/Users/sspc/VisualStudioProjects/contracts/Hello/src/obj/Debug/net5.0/ref/HelloContract.dll
+/Users/sspc/VisualStudioProjects/contracts/Hello/src/obj/Debug/net5.0/HelloContract.pdb

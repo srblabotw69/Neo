@@ -1,0 +1,29 @@
+{
+  "name": "wallet1",
+  "version": "1.0",
+  "scrypt": {
+    "n": 16384,
+    "r": 8,
+    "p": 8,
+    "size": 64
+  },
+  "accounts": [
+    {
+      "address": "Nag9PvzW2PXQ4KBXJFkF3WwxaTPsUSnnis",
+      "label": "Default account",
+      "isDefault": true,
+      "lock": false,
+      "key": "6PYW2wmCHe2FzFjy639CQRNVqh6RrBDe83fWEczsUfssTWauPg23ikKQ55",
+      "contract": {
+        "script": "DCED00RZjcu8F6iEITF2PMUb++8nV8IKjpgFlo4eN7opoKZBVuezJw==",
+        "parameters": [
+          {
+            "name": "signature",
+            "type": "Signature"
+          }
+        ],
+        "deployed": false
+      }
+    }
+  ]
+}

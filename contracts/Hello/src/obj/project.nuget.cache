@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jw1pPaib1RMihRLSsQS/bjpraUG8Fmk8+VkS/J7Hl8rsXoF53KMl3hRgZOfwdphuIMCmG8oY4nL312FT/UrP9Q==",
+  "success": true,
+  "projectFilePath": "/Users/sspc/VisualStudioProjects/contracts/Hello/src/HelloContract.csproj",
+  "expectedPackageFiles": [
+    "/Users/sspc/.nuget/packages/neo.smartcontract.framework/3.0.0/neo.smartcontract.framework.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
